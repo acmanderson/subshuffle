@@ -1,0 +1,10 @@
+name="subshuffle"
+main="src/index.ts"
+
+compatibility_date = "2022-07-18"
+
+[vars]
+# The necessary secrets are:
+# - YOUTUBE_AUTH_KEY
+# Run `echo <VALUE> | wrangler secret put <NAME>` for each of these
+
