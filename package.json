@@ -10,7 +10,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "hono": "^2.1.2",
+    "hono": "^3.0.1",
     "prettier": "^2.7.1"
   },
   "devDependencies": {
